@@ -131,6 +131,9 @@ body {
   padding:20px;
   display:inline-block;
 }
+  .header{
+    font-size:20px;
+  }
 }
 
 /* About Page */
@@ -229,7 +232,9 @@ li{
 imext-align:left;
 }
 .comSheet{
-  max-width:100%;
+  max-width:90%;
+  padding-top:-20px;
+  padding-bottom:20px;
 }
 
 /* Contact Page */
@@ -243,7 +248,7 @@ imext-align:left;
 
 
 ::-webkit-input-placeholder{color: #777;}
-:-moz-placeholder { /* Firefox 18- */ color: #777;}
+:-moz-placeholder { /* Firefox 18- */ colo:1#777;}
 ::-moz-placeholder {  /* Firefox 19+ */ color: #777;}
 :-ms-input-placeholder {color: #777;}
 
