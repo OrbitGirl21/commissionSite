@@ -136,6 +136,10 @@ body {
   }
 }
 
+.scrollToTop{
+  color: #FFB6C1;
+}
+
 /* About Page */
 .centerMe{
   padding:15px;
